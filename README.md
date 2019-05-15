@@ -1,2 +1,3 @@
 # jupyter_githooks
-Pre-commit githooks to be ran when working with Jupyter notebooks
+pre-commit githooks to be ran when working with Jupyter notebooks.
+Prevents committing Jupyter notebooks with executed output.
